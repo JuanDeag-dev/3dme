@@ -1,0 +1,1 @@
+simple 3dme script.
